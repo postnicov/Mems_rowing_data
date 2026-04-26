@@ -2,4 +2,4 @@ Files 'DataPinsk.7z', 'DataPinsk2.7z', 'DataPinsk3.7z' contain archived datasets
 
 To process the data and get plots for the paper submitted, one should extract the 7z archive and run the corresponding m-files (each corresponds to a separate figure).
 
-MannWhitney.m file and Tensembles.mat and dataPeriods.mat are auxiliary files used to generate a table with statistics.
+Files TableRankSum.m, Table_Wilcoxon_rank.m, and Tensembles.mat and dataPeriods.mat are auxiliary files used to generate a table with statistics.

@@ -20,7 +20,7 @@ for n=1:3
     end
     xlim([0.75 3.25])
     ylim(ylims{n})
-    ylabel('{\it \omega_x}, s^{-1}')
+    ylabel('{\it T}, s')
     title(ttl{n})
     set(gca,'FontName','Times','FontSize',FS,'XTick',[1:3],'XTickLabel',{'March','April','June'})
 end
